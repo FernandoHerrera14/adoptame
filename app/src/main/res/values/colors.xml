@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orange">#F48F51</color>
+    <color name="orange_700">#E2E37B39</color>
+    <color name="white">#FFFFFF</color>
+    <color name="purplee">#7a6bbc</color>
+    <color name="lavender">#d5ccff</color>
+    <color name="tarjeta_post">#FAFAFA</color>
+    <color name="lavander_claro">#EAE0FF</color>
+    <color name="gray">#DFDEDE</color>
+    <color name="black">#000000</color>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "315388071362",
+    "project_id": "adoptame-17c78",
+    "storage_bucket": "adoptame-17c78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315388071362:android:c3accd22120e1d81de5a5b",
+        "android_client_info": {
+          "package_name": "com.itq.proyectosoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315388071362-gfut4feefsak3pl316ku1gn4g9snjuqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itq.proyectosoft",
+            "certificate_hash": "baa89250b7a329c074708ef92ef90dc4ebedc2c4"
+          }
+        },
+        {
+          "client_id": "315388071362-jud6v0pd82ml7l3o2l57ngcgan29rv1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcYAtmVX0UfwiGWxzuHkRCT4cICailphQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315388071362-jud6v0pd82ml7l3o2l57ngcgan29rv1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

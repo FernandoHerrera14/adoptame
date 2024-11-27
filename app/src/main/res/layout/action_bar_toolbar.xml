@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.appbar.AppBarLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/white">
+
+       <de.hdodenhof.circleimageview.CircleImageView
+           android:layout_width="50dp"
+           android:layout_height="50dp"
+           android:src="@drawable/menu_desplegable"
+           />
+
+        <TextView
+            android:id="@+id/toolbar_title"
+            android:layout_width="270dp"
+            android:layout_height="wrap_content"
+            android:drawableRight="@drawable/logo_titulo_transformed"
+            android:fontFamily="@font/poppins_bold"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="40dp"
+            android:text="ADOPTAME INC."
+            android:textColor="@android:color/holo_purple"
+            android:textSize="25sp" />
+
+    </androidx.appcompat.widget.Toolbar>
+
+</com.google.android.material.appbar.AppBarLayout>

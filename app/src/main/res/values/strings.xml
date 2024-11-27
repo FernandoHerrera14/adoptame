@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProyectoSoft</string>
+    <string name="default_web_client_id">315388071362-gfut4feefsak3pl316ku1gn4g9snjuqd.apps.googleusercontent.com</string>
+    <string name="complete">Completa tu información</string>
+    <string name="somos_una_funcadaci_n_sin_fines_de_lucro_que_busca_el_bienestar_de_los_animales_nuestro_objetivo_es_encontrar_un_hogar_para_cada_uno_de_los_animales_que_rescatamos_adopta_no_compres">Somos una funcadación sin fines de lucro que busca el bienestar de los animales. Nuestro objetivo es encontrar un hogar para cada uno de los animales que rescatamos. ¡Adopta, no compres!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment"> Fragment de Adopciones</string>
+    <string name="transitionName_picture">transitionnamepicture</string>
+</resources>

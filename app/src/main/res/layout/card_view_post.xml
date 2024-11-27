@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="20dp"
+    android:orientation="horizontal"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="4dp">
+
+    <LinearLayout
+        android:layout_width="175dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+
+        <ImageView
+            android:id="@+id/ivImagePet"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:src="@drawable/logo_morado"
+            android:scaleType="centerCrop"/>
+
+        <TextView
+            android:id="@+id/tvTitlePet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:text="Titulo"
+            android:textColor="@color/material_dynamic_primary0"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/tvInfoPet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Titulo1"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="7dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/purplee"/>
+
+        <Button
+            android:id="@+id/btn_Adoptar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/poppins_bold"
+            android:textSize="16dp"
+            android:text="!ADOPTAR"
+            android:layout_marginBottom="10dp"/>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
+
